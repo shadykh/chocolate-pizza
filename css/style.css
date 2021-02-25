@@ -9,3 +9,35 @@ h1
     text-align: left;
     margin: 0 53px;
 }
+.slag {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: blue;
+margin: 0px 52px;
+}
+#img{
+    
+    float:left;
+    margin-top: auto;
+}
+
+.image{
+    float: right;
+    /* margin-top: auto; */
+    margin: -35px 0px;
+}
+
+header p {
+    margin: -19px;
+    width: 338px;
+}
+header{
+    border-bottom: 5px solid #b2acac;
+    padding: 10px 0;
+    width: 899px;
+}
+section{
+    display: flex;
+}
+h6{
+    margin: 40px -126px;
+}
