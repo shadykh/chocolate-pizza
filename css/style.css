@@ -41,3 +41,26 @@ section{
 h6{
     margin: 40px -126px;
 }
+article{
+    width: 904px;
+    line-height: 1.5;
+    text-indent: 36px;
+    text-align: justify;
+}
+.checkbox
+{
+    background-image: url(../images/list-bg.png);
+    background-size: contain;
+    width: 900px;
+}
+.checkbox ul:nth-child(1) {
+    width: 50%;
+    list-style-type: square;
+}
+.checkbox ul:nth-child(2) {
+    list-style-type: square;
+}
+footer section hr{
+    margin: 10px;
+    color: gray;
+}
